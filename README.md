@@ -12,3 +12,4 @@
 ## Credits
 
 - Layout got from [Ettrics' CodePen](https://codepen.io/ettrics/pen/KpzzQZ)
+- Project from [Erick Wendel](https://github.com/ErickWendel)
